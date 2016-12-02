@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Owner\Desktop\TIY\week-4\day-3\Calculator\Calculator\obj\Debug\Calculator.pdb
